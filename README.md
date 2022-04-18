@@ -2,6 +2,7 @@
 Beginners machine learning projects
 
 Getting started with machine learning great tool/algorithm to start with is Decision tree and random forest.
+
 Decision tree works by breaking samples/large dataset into smaller nodes/branch which represent a possible decision.
 For the Iris dataset I used Decision Tree Classifier which performed well both on training and validation set with accuracy score of a 100%
 I didn't have to Encode (converting categorical data into numerical values) the Target variable (Species) since we are using the classifier.
