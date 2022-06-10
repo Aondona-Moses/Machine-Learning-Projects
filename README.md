@@ -1,4 +1,4 @@
 # Machine-Learning-Projects
-Beginners machine learning projects
+* 1. Beginners machine learning projects
 
-This Repo was created and contains some of my beginner projects on machine learning.
+* 2. This Repo was created and contains some beginner projects on machine learning.
